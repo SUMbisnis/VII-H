@@ -1,0 +1,56 @@
+* {margin: 0px; padding: 0px;}
+
+
+/* LOGO */
+
+.navbar { background-color: #efefef; width: 100%;}
+
+.library {color: rgb(9, 12, 14); 
+    text-align: center; 
+    font-family: Cambria, Cochin, 
+    Georgia, Times, 'Times New Roman', serif;}
+
+/* BAHASA */
+
+.bahasa {background-color: #efefef; 
+    top: 70px; 
+    margin: 2px;
+    padding: 3px;
+    width: 70px; 
+    height: 90px; border-radius: 5px; box-shadow: 0 3px 3px black;}
+    
+
+.bahasa h1 {font-size: 12px; text-align: center; color: rgb(0, 0, 0); font-family:cursive;}
+
+.list {justify-content: center; margin-bottom: 4px; display: flex;}
+
+.bendera {height: 17px; padding: 1px; margin: 1px; border: 6px #efefef;}  
+
+.list a {text-decoration: none; margin: 5px; display: flex;}
+
+
+/* DAFTAR BUKU */
+
+.bahasa-search {display: flex; margin: 10px;}
+
+.search {background-color: #efefef; 
+    padding: 5px; 
+    border-radius: 5px; 
+    margin: 10px; 
+    box-shadow: 0 3px 3px black;}
+
+/* list
+.menu { display: flex; margin: 1px auto ; width: 80%} */
+/* 
+ul {bottom: 0px; position: fixed; list-style-type: none; align-items: center; padding: 0px;}
+
+ul li {text-decoration: none;  background-color: #efefef;} 
+
+ul li a {text-decoration: none; color: rgb(39, 39, 97);}
+
+ul li a:hover {color: #efefef}
+
+ul li:hover {background-color: rgb(39, 39, 97);} */
+
+/* ISI */
+.isi a {text-decoration: none; color: #221d1d; background-color: #efefef;; padding: 1px; margin-top: 100px; border-radius: 5px; bottom: 20px; position: fixed; font-size: 20px;}
